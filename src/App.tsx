@@ -16,7 +16,7 @@ function App() : JSX.Element{
           </div>
           <button className='align-v-h'>
             <img alt='Shopping Cart' src='./../images/icon-cart.svg'/>
-            <p>Add to Cart</p>
+            Add to Cart
           </button>
         </section>
       </div>

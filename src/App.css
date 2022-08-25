@@ -109,14 +109,18 @@
   cursor: url("./../public/images/Pointer.png"), auto;
 }
 
-.details > button > p {
+.details > button {
   font-family: 'Montserrat';
   font-style: normal;
   font-weight: 700;
   font-size: 14px;
   line-height: 17px;
   color: #FFFFFF;
-  margin-left: 11.61px;
+  
+}
+
+.details > button > img {
+  margin-right: 11.61px;
 }
 
 @media (max-width:800px) {
